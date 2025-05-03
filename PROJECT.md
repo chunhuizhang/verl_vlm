@@ -13,6 +13,9 @@ pip3 install -e .[vllm]
 
 pip3 install vllm==0.8.3
 
+# qwen/vlm related
+pip3 install qwen_vl_utils, mathruler
+
 # misc
 pip3 install ipython
 ```
